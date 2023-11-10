@@ -36,28 +36,42 @@ A aplicação é um jogo contendo um enigma que deve ser resolvido com uso de ra
 - compilador g++
 
 ## Instalação
-Inicialmente, clone o respositório para a sua máquina com o comando git clone
+- 1: Instale a ferramenta git
+```
+
+sudo apt -y install git
+
+```
+
+- 2: Clone o respositório para a sua máquina com o comando git clone
 ```
 
 git clone https://github.com/GabrielPCO/desafio-vinho.git
 
 ```
 
-Em seguida, instale o compilador g++
+- 3: Acesse a pasta clonada
+```
+
+cd desafio-vinho
+
+```
+
+- 4: Instale o compilador g++
 ```
 
 sudo apt -y install g++
 
 ```
 
-Logo após, utilize o comando make para preparar a aplicação
+- 5: Utilize o comando make para preparar a aplicação
 ```
 
 sudo make
 
 ```
 
-Finalmente, execute a aplicação
+- 6: Execute a aplicação
 ```
 
 sudo ./desafio
