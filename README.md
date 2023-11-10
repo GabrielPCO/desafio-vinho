@@ -19,10 +19,10 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Conteúdo
-- [Aplicação](https://github.com/GabrielPCO/desafio-vinho/new/main#aplica%C3%A7%C3%A3o)
-- [Requisitos](https://github.com/GabrielPCO/desafio-vinho/new/main#requisitos)
-- [Instalação](https://github.com/GabrielPCO/desafio-vinho/new/main#instala%C3%A7%C3%A3o)
-- [Regras](https://github.com/GabrielPCO/desafio-vinho/new/main#regras)
+- [Aplicação](#aplica%C3%A7%C3%A3o)
+- [Requisitos](#requisitos)
+- [Instalação](#instala%C3%A7%C3%A3o)
+- [Regras](#regras)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
