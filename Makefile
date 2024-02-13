@@ -1,6 +1,8 @@
+all: desafio
+	@echo "Instalação concluida!"
 
 desafio: desafio.o
-	g++ desafio.o -o desafio
+	g++ -w -o desafio desafio.o
 
 desafio.o: desafio.cpp desafio.h
 	g++ -c desafio.cpp
